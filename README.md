@@ -8,5 +8,3 @@
   
 🫱🏻‍🫲🏼 Let's connect! To work on a project...  
 🌞 or go for an adventure, a walk, or just chat in the sun.  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddy-rio&layout=compact&theme=material-palenight) 
