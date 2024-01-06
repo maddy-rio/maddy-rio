@@ -1,7 +1,7 @@
 ### Hey there, I'm Maddy 👋🏻
 📍 Software Developer based in Napier, New Zealand  
 👥 Background in Customer Experiences  
-👩🏻‍💻 Currently improving TravelGram  
+👩🏻‍💻 Currently coding TravelGram  
   
 👩🏻‍🎓 Dev Academy graduate in Applied Software Development  
 🚀 Proficient in HTML, CSS, JavaScript, TypeScript, React, SQL  
