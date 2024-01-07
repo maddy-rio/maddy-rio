@@ -1,5 +1,5 @@
 ### Hey there, I'm Maddy 👋🏻
-📍 Software Developer based in Napier, New Zealand  
+📍 Product Specialist based in Napier, New Zealand  
 👥 Background in Customer Experiences  
 👩🏻‍💻 Currently coding TravelGram  
   
