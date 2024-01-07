@@ -7,4 +7,4 @@
 🚀 Proficient in HTML, CSS, JavaScript, TypeScript, React, SQL  
    
  Let's connect! Whether it's to work on a project or just have a chat  
-🌟 You can reach out to me on [LinkedIn](<www.linkedin.com/in/maddyrio-nz>)
+🌟 You can reach out to me on [LinkedIn](www.linkedin.com/in/maddyrio-nz) 
