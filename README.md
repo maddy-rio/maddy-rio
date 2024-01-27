@@ -1,7 +1,7 @@
 ### Hey there, I'm Maddy 👋🏻
 📍 Product Specialist based in Napier, New Zealand  
 👥 Background in Customer Experiences  
-👩🏻‍💻 Currently coding TravelGram  
+👩🏻‍💻 Currently coding TrendyWoofz 
   
 👩🏻‍🎓 Dev Academy graduate in Applied Software Development  
 🚀 Proficient in HTML, CSS, JavaScript, TypeScript, React, SQL  
