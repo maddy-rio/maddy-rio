@@ -1,5 +1,5 @@
 ### Hey there, I'm Maddy 👋🏻
-📍 Product Specialist based in Napier, New Zealand  
+📍 Developer based in Napier, New Zealand  
 👥 Background in Customer Experiences  
 👩🏻‍💻 Currently coding TrendyWoofz 
   
