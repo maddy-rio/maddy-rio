@@ -1,7 +1,6 @@
 ### Hey there, I'm Maddy 👋🏻
 📍 Developer based in Napier, New Zealand  
 👥 Background in Customer Experiences  
-👩🏻‍💻 Currently coding TrendyWoofz 
   
 👩🏻‍🎓 Dev Academy graduate in Applied Software Development  
 🚀 Proficient in HTML, CSS, JavaScript, TypeScript, React, SQL  
